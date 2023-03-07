@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.072b9b91.chunk.css",
+    "main.js": "/static/js/main.f6b98722.chunk.js",
+    "main.js.map": "/static/js/main.f6b98722.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11e594c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11e594c8.js.map",
+    "static/js/2.ed2039e4.chunk.js": "/static/js/2.ed2039e4.chunk.js",
+    "static/js/2.ed2039e4.chunk.js.map": "/static/js/2.ed2039e4.chunk.js.map",
+    "static/js/3.725e43f0.chunk.js": "/static/js/3.725e43f0.chunk.js",
+    "static/js/3.725e43f0.chunk.js.map": "/static/js/3.725e43f0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.072b9b91.chunk.css.map": "/static/css/main.072b9b91.chunk.css.map",
+    "static/js/2.ed2039e4.chunk.js.LICENSE.txt": "/static/js/2.ed2039e4.chunk.js.LICENSE.txt",
+    "static/media/Character.596a2a99.png": "/static/media/Character.596a2a99.png",
+    "static/media/Character1.677de3cc.png": "/static/media/Character1.677de3cc.png",
+    "static/media/token.6f39484b.png": "/static/media/token.6f39484b.png",
+    "static/media/tokenomics_back.441e8152.png": "/static/media/tokenomics_back.441e8152.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11e594c8.js",
+    "static/js/2.ed2039e4.chunk.js",
+    "static/css/main.072b9b91.chunk.css",
+    "static/js/main.f6b98722.chunk.js"
+  ]
+}
